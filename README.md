@@ -1,4 +1,4 @@
-# VexTemplates
+# Vex Templates
 
 These are 3 gui templates in different coding languages.
 
